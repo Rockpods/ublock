@@ -15,7 +15,10 @@ https://resources.tidal.com/images/b181e312/f9f2/4c04/91ff/fe204773001e/*.jpg
 https://resources.tidal.com/images/9cb19f38/6b0c/4a54/9860/8875ee246d05/*.jpg
 https://resources.tidal.com/images/0c25d943/8d00/47d5/91d2/a97b3bf0e92f/*.jpg
 https://resources.tidal.com/images/0e30c5a7/160e/4092/8361/ce50213fff72/*.jpg
+https://listen.tidal.com/v1/tracks/*?countryCode=US&locale=en_US&deviceType=BROWSER
 https://connect.facebook.net/en_US/sdk.js?hash=*
 https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=en_US&deviceType=BROWSER
 https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=US&locale=en_US&deviceType=BROWSER
 $$listen.tidal.com/app.c611ed52816623e50e13.js##playAd
+https://listen.tidal.com/v1/tracks/204276630/playbackinfopostpaywall?audioquality=HIGH&playbackmode=STREAM&assetpresentation=FULL&streamingsessionid=2531cc0c-1e18-4bce-a388-5a48e39f5c96&countryCode=US&locale=en_US&deviceType=BROWSER
+https://listen.tidal.com/v1/tracks/119743027/playbackinfopostpaywall?audioquality=HIGH&playbackmode=STREAM&assetpresentation=FULL&streamingsessionid=9a9eede2-53bd-4f7f-8949-de2959639026&countryCode=US&locale=en_US&deviceType=BROWSER
