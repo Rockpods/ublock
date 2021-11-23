@@ -22,7 +22,8 @@ https://listen.tidal.com/v1/tracks/*?countryCode=US&locale=en_US&deviceType=BROW
 https://connect.facebook.net/en_US/sdk.js?hash=*
 https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=en_US&deviceType=BROWSER
 https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=US&locale=en_US&deviceType=BROWSER
-listen.tidal.com/app.c611ed52816623e50e13.js##playAd
+listen.tidal.com/app.c611ed52816623e50e13.js##.playAd
 
 ! Other small fixes
 www.howtogeek.com##.e-content.entry-content > div
+
