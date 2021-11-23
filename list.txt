@@ -3,3 +3,5 @@ https://c2.accu.fm/audio/sweeper/
 https://c2.accu.fm/banners/sweeper/
 https://www.accuradio.com/sweeper/json/count/
 https://www.accuradio.com/sweeper/json/fetch/
+https://aw1.accuradio.com/vast/4.0/request/alias/*_midroll
+https://aw1.accuradio.com/vast/4.0/v1.1/quartile/start*
