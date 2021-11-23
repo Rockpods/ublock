@@ -1,3 +1,4 @@
+! Accuradio
 https://aw1.accuradio.com/cdn-cf/accuradio_newEnco/
 https://c2.accu.fm/audio/sweeper/
 https://c2.accu.fm/banners/sweeper/
@@ -5,6 +6,7 @@ https://www.accuradio.com/sweeper/json/count/
 https://www.accuradio.com/sweeper/json/fetch/
 https://aw1.accuradio.com/vast/4.0/request/alias/*_midroll
 https://aw1.accuradio.com/vast/4.0/v1.1/quartile/start*
+! Tidal
 https://vb-ad-fa.video.tidal.com/89100c2d-9fbd-44bc-affb-7597eeb2300a_128/media_segment*.ts
 https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJzA3NjZjY2MzOWExMzY2MmM2MWU5Zjc1MjE5NjdhYjU5XzM2Lm1wNCIgHQAAgEAgASoQgdx8HDachlPP03tlaTWFMjIFDQAAoEE/*.mp4
 https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJ2IzNWRjY2M5ZGFkZjI1YzU0ZmI5MDM5NDBlYWFjZDU0XzM2Lm1wNCIgHQAAgEAgASoQ_2AHOuwJpdKeHmB9v-VUWDIFDQAAoEE/*.mp4
@@ -20,4 +22,7 @@ https://listen.tidal.com/v1/tracks/*?countryCode=US&locale=en_US&deviceType=BROW
 https://connect.facebook.net/en_US/sdk.js?hash=*
 https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=en_US&deviceType=BROWSER
 https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=US&locale=en_US&deviceType=BROWSER
-$$listen.tidal.com/app.c611ed52816623e50e13.js##playAd
+listen.tidal.com/app.c611ed52816623e50e13.js##playAd
+
+! Other small fixes
+www.howtogeek.com##.e-content.entry-content > div
