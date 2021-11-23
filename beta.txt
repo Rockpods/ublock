@@ -21,5 +21,3 @@ https://connect.facebook.net/en_US/sdk.js?hash=*
 https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=en_US&deviceType=BROWSER
 https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=US&locale=en_US&deviceType=BROWSER
 $$listen.tidal.com/app.c611ed52816623e50e13.js##playAd
-https://listen.tidal.com/v1/tracks/204276630/playbackinfopostpaywall?audioquality=HIGH&playbackmode=STREAM&assetpresentation=FULL&streamingsessionid=2531cc0c-1e18-4bce-a388-5a48e39f5c96&countryCode=US&locale=en_US&deviceType=BROWSER
-https://listen.tidal.com/v1/tracks/119743027/playbackinfopostpaywall?audioquality=HIGH&playbackmode=STREAM&assetpresentation=FULL&streamingsessionid=9a9eede2-53bd-4f7f-8949-de2959639026&countryCode=US&locale=en_US&deviceType=BROWSER
