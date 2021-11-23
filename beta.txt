@@ -17,6 +17,5 @@ https://resources.tidal.com/images/0c25d943/8d00/47d5/91d2/a97b3bf0e92f/*.jpg
 https://resources.tidal.com/images/0e30c5a7/160e/4092/8361/ce50213fff72/*.jpg
 https://listen.tidal.com/v1/tracks/*?countryCode=US&locale=en_US&deviceType=BROWSER
 https://connect.facebook.net/en_US/sdk.js?hash=*
-https://listen.tidal.com/v1/users/183352839/favorites/ids?countryCode=US&locale=en_US&deviceType=BROWSER
-https://listen.tidal.com/album/119743026
-https://api.tidal.com/v2/feed/activities/unseen/exists?userId=183352839&countryCode=US&locale=en_US&deviceType=BROWSER
+https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=en_US&deviceType=BROWSER
+https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=US&locale=en_US&deviceType=BROWSER
