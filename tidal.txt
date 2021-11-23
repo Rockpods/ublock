@@ -1,0 +1,1 @@
+This will hopefully not have to but if needed inject a script into tidal to block ads or some shit like that
