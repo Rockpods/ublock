@@ -24,7 +24,7 @@ You should see something like this
 
 Step Five: Paste the corresponding link in the text box.
 
-Default(Recommended): https://raw.githubusercontent.com/Rockpods/ublock/main/list.txt
+Default - Recommended: https://raw.githubusercontent.com/Rockpods/ublock/main/list.txt
 
 Beta: https://raw.githubusercontent.com/Rockpods/ublock/main/beta.txt
 
