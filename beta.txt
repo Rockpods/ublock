@@ -26,4 +26,3 @@ listen.tidal.com/app.c611ed52816623e50e13.js##.playAd
 
 ! Other small fixes
 www.howtogeek.com##.e-content.entry-content > div
-
