@@ -23,8 +23,11 @@ Step Four: Scroll all the way down until you see a button called "import". This 
 You should see something like this
 
 Step Five: Paste the corresponding link in the text box.
+
 Default(Recommended): https://raw.githubusercontent.com/Rockpods/ublock/main/list.txt
+
 Beta: https://raw.githubusercontent.com/Rockpods/ublock/main/beta.txt
+
 Agressive(Faster but things will break): https://raw.githubusercontent.com/Rockpods/ublock/main/agressive.txt
 
 Step 6: Click on the apply changes
