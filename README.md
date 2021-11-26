@@ -3,14 +3,15 @@ This is a custom filter list made by one person
 
 # Ads Filtered
 <a href="https://www.accuradio.com/">AccuRadio</a><br />
-<a href="https://www.vpnmentor.com">VPN Mentor</a>
+<a href="https://www.vpnmentor.com">VPN Mentor</a><br />
+<a href="https://forums.tomsguide.com">Tom's Guide Forums</a><br />
 
 # Ad Containers Removed
 <a href="https://www.techradar.com">TechRadar</a><br />
-<a href="https://www.tomsguide.com">Tom's Guide</a>
+<a href="https://www.tomsguide.com">Tom's Guide</a><br />
 
 # Paywalls Bypassed
-<a href="https://medium.com">Medium</a>
+<a href="https://medium.com">Medium</a><br />
 
 # How to add this filter
 
