@@ -1,1 +1,18 @@
-This will hopefully not have to but if needed inject a script into tidal to block ads or some shit like that
+! Tidal
+https://vb-ad-fa.video.tidal.com/89100c2d-9fbd-44bc-affb-7597eeb2300a_128/media_segment*.ts
+https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJzA3NjZjY2MzOWExMzY2MmM2MWU5Zjc1MjE5NjdhYjU5XzM2Lm1wNCIgHQAAgEAgASoQgdx8HDachlPP03tlaTWFMjIFDQAAoEE/*.mp4
+https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJ2IzNWRjY2M5ZGFkZjI1YzU0ZmI5MDM5NDBlYWFjZDU0XzM2Lm1wNCIgHQAAgEAgASoQ_2AHOuwJpdKeHmB9v-VUWDIFDQAAoEE/*.mp4
+https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJzliZWNiMjFmMThiYjBjYTE3YjYwYzc4MDMzYjMzYzhmXzM3Lm1wNCIgHQAAgEAgASoQSz1OmN3x1idtwGf8nMjNWTIFDQAAoEE/*.mp4
+https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJzU4YzVmZjk5NmQ3YjAyYjUyYWY3NDIxZGZjMzdiYTdhXzM3Lm1wNCIgHQAAgEAgASoQlNn9S1T9xtuXaDtcpMTNhTIFDQAAoEE/*.mp4
+https://sp-ad-cf.audio.tidal.com/mediatracks/GikSJzViZjhlOTg2NzUzYzQxMTY1NjRjN2MxYjEwM2NkMzExXzM3Lm1wNCIgHQAAgEAgASoQ_2AHOuwJpdKeHmB9v-VUWDIFDQAAoEE/*.mp4
+https://resources.tidal.com/images/b181e312/f9f2/4c04/91ff/fe204773001e/*.jpg
+https://resources.tidal.com/images/9cb19f38/6b0c/4a54/9860/8875ee246d05/*.jpg
+https://resources.tidal.com/images/0c25d943/8d00/47d5/91d2/a97b3bf0e92f/*.jpg
+https://resources.tidal.com/images/0e30c5a7/160e/4092/8361/ce50213fff72/*.jpg
+https://resources.tidal.com/images/1c4aa5ba/9bae/4fa3/a423/6948fee0d08a/*.jpg
+https://listen.tidal.com/v1/tracks/*?countryCode=US&locale=*&deviceType=*
+https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=*&deviceType=*
+https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=*&locale=*&deviceType=*
+listen.tidal.com/app.c611ed52816623e50e13.js##.playAd
+
+! In active development so you should probably not use
