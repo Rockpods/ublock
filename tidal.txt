@@ -13,6 +13,6 @@ https://resources.tidal.com/images/1c4aa5ba/9bae/4fa3/a423/6948fee0d08a/*.jpg
 https://listen.tidal.com/v1/tracks/*?countryCode=US&locale=*&deviceType=*
 https://listen.tidal.com/v1/users/*/favorites/ids?countryCode=US&locale=*&deviceType=*
 https://api.tidal.com/v2/feed/activities/unseen/exists?userId=*&countryCode=*&locale=*&deviceType=*
-listen.tidal.com##+js(playAd)
+listen.tidal.com##+js(norafif, playAd)
 
 ! In active development so you should probably not use
