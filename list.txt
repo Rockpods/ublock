@@ -17,3 +17,4 @@ www.vpnmentor.com##.opt1.privacy-alert-wrap
 www.techradar.com##.hawk-powered-by-inner-container
 www.techradar.com##.hawk-footer-description
 www.tomsguide.com##.hawk-footer-transparent
+forums.tomsguide.com###video_ad
