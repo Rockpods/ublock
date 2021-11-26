@@ -7,5 +7,13 @@ https://www.accuradio.com/sweeper/json/fetch/
 https://aw1.accuradio.com/vast/4.0/request/alias/*_midroll
 https://aw1.accuradio.com/vast/4.0/v1.1/quartile/start*
 
-! Other small fixes
-www.howtogeek.com##.e-content.entry-content > div
+! Paywall
+medium.com##+js(cookie-remover, ref_cookie)
+medium.com##.lu.en.n.lt.ls
+
+! Other
+www.vpnmentor.com##.privacy-alert-overflow
+www.vpnmentor.com##.opt1.privacy-alert-wrap
+www.techradar.com##.hawk-powered-by-inner-container
+www.techradar.com##.hawk-footer-description
+www.tomsguide.com##.hawk-footer-transparent
