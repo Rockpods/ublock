@@ -2,11 +2,11 @@
 This is a custom filter list made by one person
 
 # Ads Filtered
-<a href="https://www.accuradio.com/">AccuRadio</a><b />
+<a href="https://www.accuradio.com/">AccuRadio</a><br />
 <a href="https://www.vpnmentor.com">VPN Mentor</a>
 
 # Ad Containers Removed
-<a href="https://www.techradar.com">TechRadar</a><b />
+<a href="https://www.techradar.com">TechRadar</a><br />
 <a href="https://www.tomsguide.com">Tom's Guide</a>
 
 # Paywalls Bypassed
