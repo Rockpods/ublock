@@ -13,6 +13,13 @@ This is a custom filter list made by one person
 # Paywalls Bypassed
 <a href="https://medium.com">Medium</a><br />
 
+# Deals/Promotions
+<a href="https://www.comparitech.com">Comparitech</a>
+<a href="https://www.techradar.com">TecRadar</a>
+
+# Share Article
+<a href="https://www.nngroup.com">NNGroup</a>
+
 # How to add this filter
 
 <b>First click on the Ublock Origin extension</b>
