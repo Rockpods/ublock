@@ -19,6 +19,30 @@ www.techradar.com##.hawk-powered-by-inner-container
 www.techradar.com##.hawk-footer-description
 www.tomsguide.com##.hawk-footer-transparent
 forums.tomsguide.com###video_ad
+www.techadvisor.com##div.after-slide-ad-placeholder-outer:nth-of-type(even)
+www.techadvisor.com##div.after-slide-ad-placeholder-outer:nth-of-type(odd)
+www.techadvisor.com###\35 64C6CF2-8678-4FDD-B036D6EF396476DE
+www.techadvisor.com##.standalone--infeed.videoContainer--isStandalone.videoContainer
+www.techradar.com###article-body > aside.hawk-processed.hawk-nest li
+
+! Deals and Promotions
+www.techradar.com###sidebar
+www.techradar.com##.hawk-seasonal-event-countdown-container
+www.techradar.com##.hawk-title-container
+www.techradar.com##.hawk-grid-item-main-review.hawk-grid-item-main-container
+www.techradar.com##div.hawk-grid-item-review.hawk-grid-item-container:nth-of-type(even)
+www.techradar.com##.hawk-seasonal-event-merchants-description
+www.techradar.com##.hawk-seasonal-event-merchants-merchants
+www.techradar.com##.hawk-footer-container
+www.techradar.com###article-body > ul > li
+www.techradar.com##div.hawk-grid-item-review.hawk-grid-item-container:nth-of-type(odd)
+www.comparitech.com##div.blackFriday.ctech-get_deal_wrapper:nth-of-type(odd)
+www.comparitech.com##div.blackFriday.ctech-get_deal_wrapper:nth-of-type(even)
+www.comparitech.com##.toc_widget.widget.sticky_widget
+
+! Share This Article
+www.nngroup.com##.mb-2.share > .share-widget
+www.nngroup.com##.publication-container > .share > .share-widget
 
 ! Tidal
 https://vb-ad-fa.video.tidal.com/89100c2d-9fbd-44bc-affb-7597eeb2300a_128/media_segment*.ts
