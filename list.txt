@@ -11,6 +11,7 @@ https://aw1.accuradio.com/vast/4.0/v1.1/quartile/start*
 medium.com##+js(cookie-remover, ref_cookie)
 medium.com##.lu.en.n.lt.ls
 www.britannica.com##+js(cookie-remover, ref_cookie)
+https://www.washingtonpost.com/subscribe/paywall/*
 
 ! Other
 www.vpnmentor.com##.privacy-alert-overflow
