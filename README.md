@@ -12,6 +12,7 @@ This is a custom filter list made by one person
 
 # Paywalls Bypassed
 <a href="https://medium.com">Medium</a><br />
+<a hreg="https://www.washingtonpost.com">Washington Post</a><br />
 
 # Deals/Promotions
 <a href="https://www.comparitech.com">Comparitech</a>
