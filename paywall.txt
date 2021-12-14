@@ -1,0 +1,4 @@
+medium.com##+js(cookie-remover, ref_cookie)
+medium.com##.lu.en.n.lt.ls
+www.britannica.com##+js(cookie-remover, ref_cookie)
+https://www.washingtonpost.com/subscribe/paywall/*
