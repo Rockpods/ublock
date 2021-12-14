@@ -12,14 +12,15 @@ This is a custom filter list made by one person
 
 # Paywalls Bypassed
 <a href="https://medium.com">Medium</a><br />
-<a hreg="https://www.washingtonpost.com">Washington Post</a><br />
+<a href="https://www.washingtonpost.com">Washington Post</a><br />
+<a href="https://www.britannica.com/">Britannica</a><br />
 
 # Deals/Promotions
-<a href="https://www.comparitech.com">Comparitech</a>
-<a href="https://www.techradar.com">TecRadar</a>
+<a href="https://www.comparitech.com">Comparitech</a><br />
+<a href="https://www.techradar.com">TecRadar</a><br />
 
 # Share Article
-<a href="https://www.nngroup.com">NNGroup</a>
+<a href="https://www.nngroup.com">NNGroup</a><br />
 
 # How to add this filter
 
@@ -49,11 +50,9 @@ You should see something like this
 
 <b>Step Five: Paste the corresponding link in the text box.</b>
 
-Default - Recommended: https://raw.githubusercontent.com/Rockpods/ublock/main/list.txt
+Ad + Paywall - Recommended: https://raw.githubusercontent.com/Rockpods/ublock/main/list.txt
 
-Beta: https://raw.githubusercontent.com/Rockpods/ublock/main/beta.txt
-
-Agressive(Faster but things will break): https://raw.githubusercontent.com/Rockpods/ublock/main/agressive.txt
+Paywall: https://raw.githubusercontent.com/Rockpods/ublock/main/paywall.txt
 
 <b>Step 6: Click on the apply changes</b>
 
