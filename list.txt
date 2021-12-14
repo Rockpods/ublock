@@ -2,6 +2,7 @@
 ! Author: Rockpods
 ! Description: Fixes empty ad space, bypasses paywalls, etc
 ! Homepage: https://github.com/Rockpods/ublock
+! Expires: 10 days
 ! This filterlist is compatible with uBlock Origin.
 
 
