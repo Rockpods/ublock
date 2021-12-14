@@ -1,3 +1,10 @@
+! Title: Rockpod's Custom Ad-Block + Paywall Bypass List
+! Author: Rockpods
+! Description: Fixes empty ad space, bypasses paywalls, etc
+! Homepage: https://github.com/Rockpods/ublock
+! This filterlist is compatible with uBlock Origin.
+
+
 ! Accuradio
 https://aw1.accuradio.com/cdn-cf/accuradio_newEnco/
 https://c2.accu.fm/audio/sweeper/
